@@ -24,26 +24,29 @@ This [guidance](https://accessibility-manual.dwp.gov.uk/guidance-for-your-job-ro
 1. [Nomensa audit result](https://hfund365-my.sharepoint.com/personal/rosa_fernandez_heritagefund_org_uk/_layouts/15/onedrive.aspx?viewid=336de365%2D0d1f%2D42b4%2D8d2f%2D009584489531&id=%2Fsites%2FDigitalServiceDesignTeam%2FShared%20Documents%2FAccessibility%20of%20Service%2FExternal%20audits&listurl=https%3A%2F%2Fhfund365%2Esharepoint%2Ecom%2Fsites%2FDigitalServiceDesignTeam%2FShared%20Documents) - The result of our first audit conducted on xx
 
 
-2. [Pattern checker plugin](https://chrome.google.com/webstore/detail/pattern-checker/amjjliajblignodfdjalnfkekkeflkph):
+2. [Nomensa training files](https://hfund365.sharepoint.com/sites/DigitalServiceDesignTeam/Shared%20Documents/Forms/AllItems.aspx?csf=1&web=1&e=w7T8Jt&cid=7ed34840%2Dafaa%2D4963%2Da2d7%2D4fb3411b0166&FolderCTID=0x01200016F387F9573D8F4DB143FA1BB44699EF&viewid=336de365%2D0d1f%2D42b4%2D8d2f%2D009584489531&id=%2Fsites%2FDigitalServiceDesignTeam%2FShared%20Documents%2FAccessibility%20of%20Service%2FNomensa%20training%20files)
+
+
+3. [Pattern checker plugin](https://chrome.google.com/webstore/detail/pattern-checker/amjjliajblignodfdjalnfkekkeflkph):
 
     a. Checks for aria, hierarchy, visually hidden content, page titles, libraries, timeouts
 
     b. Can use dev tools to check all of this, but plugin is faster and can be done non-dev
 
 
-3. [Content design checklist](https://hfund365.sharepoint.com/:w:/r/sites/DigitalServiceDesignTeam/_layouts/15/Doc.aspx?sourcedoc=%7B7128E5CF-7C37-45EE-BAC0-2E6D67BD9990%7D&file=Content%20design%20accessibility%20checklist.docx&action=default&mobileredirect=true) (Based on the feedback from Nomensa). We will use this alongside the DWP role checklist.
+4. [Content design checklist](https://hfund365.sharepoint.com/:w:/r/sites/DigitalServiceDesignTeam/_layouts/15/Doc.aspx?sourcedoc=%7B7128E5CF-7C37-45EE-BAC0-2E6D67BD9990%7D&file=Content%20design%20accessibility%20checklist.docx&action=default&mobileredirect=true) (Based on the feedback from Nomensa). We will use this alongside the DWP role checklist.
 
-4. [Accessibility and usability testing Analysis](https://hfund365.sharepoint.com/:p:/r/sites/DigitalServiceDesignTeam/_layouts/15/Doc.aspx?sourcedoc=%7B418F3DDA-995A-48DE-96C6-09216911836F%7D&file=Accessibility%20and%20Usability%20Testing%20Analysis.pptx&action=edit&mobileredirect=true&DefaultItemOpen=1) 
+5. [Accessibility and usability testing Analysis](https://hfund365.sharepoint.com/:p:/r/sites/DigitalServiceDesignTeam/_layouts/15/Doc.aspx?sourcedoc=%7B418F3DDA-995A-48DE-96C6-09216911836F%7D&file=Accessibility%20and%20Usability%20Testing%20Analysis.pptx&action=edit&mobileredirect=true&DefaultItemOpen=1) 
 This insights directly gathered from our users
 
-5. [Accessibility of service](https://hfund365.sharepoint.com/sites/DigitalServiceDesignTeam/Shared%20Documents/Forms/AllItems.aspx?viewid=336de365%2D0d1f%2D42b4%2D8d2f%2D009584489531&id=%2Fsites%2FDigitalServiceDesignTeam%2FShared%20Documents%2FAccessibility%20of%20Service)
+6. [Accessibility of service](https://hfund365.sharepoint.com/sites/DigitalServiceDesignTeam/Shared%20Documents/Forms/AllItems.aspx?viewid=336de365%2D0d1f%2D42b4%2D8d2f%2D009584489531&id=%2Fsites%2FDigitalServiceDesignTeam%2FShared%20Documents%2FAccessibility%20of%20Service)
 This folder has all the relevant documents and insights related to the accessibility of our Service. Audit reports, accessibility statements, bugs, FFE etc
 
-6. [Readability Guidelines](https://readabilityguidelines.co.uk/) - Evidence-based style readability guidance for reading.
+7. [Readability Guidelines](https://readabilityguidelines.co.uk/) - Evidence-based style readability guidance for reading.
 
-7. [Check  list for accessibility](https://gss.civilservice.gov.uk/requesting-to-upload-content-on-the-gss-website/checklist-for-creating-content-for-the-government-statistical-service-gss-website/) - mainly for content 
+8. [Check  list for accessibility](https://gss.civilservice.gov.uk/requesting-to-upload-content-on-the-gss-website/checklist-for-creating-content-for-the-government-statistical-service-gss-website/) - mainly for content 
 
-8. [Colour contrast analyser (Windows/Mac)](https://www.tpgi.com/color-contrast-checker/)
+9. [Colour contrast analyser (Windows/Mac)](https://www.tpgi.com/color-contrast-checker/)
 Install the pluggin for quick colour checker & TPGi’s free color contrast checker tool that allows you to easily determine the contrast ratio of two colors simply using an eyedrop tool.
 
- 9. [Accessibility Bookmarklets](https://accessibility-bookmarklets.org/) These bookmarklets help web developers and designers see the "big picture" regarding web accessibility.
+10. [Accessibility Bookmarklets](https://accessibility-bookmarklets.org/) These bookmarklets help web developers and designers see the "big picture" regarding web accessibility.
