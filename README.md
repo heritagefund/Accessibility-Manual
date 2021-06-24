@@ -6,6 +6,8 @@ Guidance and best practice for building accessible services and meeting the Publ
 
 Accessibility is a part of several laws and standards we must follow. Each of the standards feed into the [Equality Act 2010](https://www.gov.uk/guidance/equality-act-2010-guidance) and the [Public Sector Equality Duty](https://www.gov.uk/government/publications/public-sector-equality-duty)
 
+They say that websites and mobile apps of public sector bodies need to meet the [Web Content Accessibility Guidelines 2.1 Level AA](https://www.w3.org/TR/WCAG21/) and provide an accessibility statement.
+
 If you are building anything which runs in a browser, you will need to meet the Public Sector Bodies Accessibility Regulations 2018
 
 If you are procuring hardware or software you will need to meet the EN 301 549 Accessibility Requirements for ICT products and services.
